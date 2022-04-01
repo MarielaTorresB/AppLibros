@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>431083219534-gdnl0utep0frnfpnfdlremaa1omj135c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.431083219534-gdnl0utep0frnfpnfdlremaa1omj135c</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCpK0v-4Ruy64Krq4Wd5yTXwKIBASX-MgI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>431083219534</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>MarielaTorres.BooksKodemia</string>
+	<key>PROJECT_ID</key>
+	<string>reto-4-bookdemia</string>
+	<key>STORAGE_BUCKET</key>
+	<string>reto-4-bookdemia.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:431083219534:ios:509c48fc81fa8c9831f11f</string>
+	<key>DATABASE_URL</key>
+	<string>https://reto-4-bookdemia-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
